@@ -479,7 +479,10 @@ Follow the process stated below:
      
      ------------------------------ Our installation is completed with this ---------------------
 
-     You are free to use this file and it's available in my github account
+     You are free to use this file and it's available in my github account. You can also find some interesting tutorials in
+     my youtube channel - Arun teaches datascience
+     https://www.youtube.com/playlist?list=PL3qw15FGSSvNn1MfTS2MMokVcQBQFzkrd
+     
 
      
 
