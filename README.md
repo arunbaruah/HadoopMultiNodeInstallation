@@ -440,7 +440,7 @@ Follow the process stated below:
      n)  Create user for running mapreduce jobs - master
 
      sudo -u hdfs hadoop fs -mkdir /user/arun
-     sudo -u hdfs hadoop fs -chown kuldeep /user/arun
+     sudo -u hdfs hadoop fs -chown arun /user/arun
 
      o) set core hadoop services to auto start when OS boot ups
 
